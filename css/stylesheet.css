@@ -71,17 +71,20 @@ section{
 }
 
 h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: xx-large;
     text-align: center;
     margin:10px;
-    font-family: Helvetica;
     color: black;
 }
 
 
 h3{
-    padding: 7px;
+    font-family: Cursive, Verdana, Arial, Helvetica, sans-serif;
+    font-style: italic;
+    padding: 8px;
     float:right;
-    font-family:Helvetica;
+    font-size: larger;
     margin-bottom: 10px;
     color: black;
     border-left:2px solid black;
